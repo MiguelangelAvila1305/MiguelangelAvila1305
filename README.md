@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- Tus badges de tecnología van aquí como los tenías -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,30 +25,30 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-4497FF?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
 ### Massari Dev
 <a href="https://massari-dev.karanta.dev/">
-  <img src="images/massari.png" alt="Vista previa de Massari" width="600px"/>
+  <img src="images/massari.png" alt="Massari Preview" width="600px"/>
 </a>
-<p>Software "todo en uno" para la administración de empresas, construido con Vue, Quasar y Pinia para el manejo de estados. En este proyecto, desarrollé todo el frontend y participé activamente en la creación del backend.</p>
+<p>An all-in-one business management software built with Vue, Quasar, and Pinia for state management. In this project, I developed the entire frontend and actively participated in the backend development.</p>
 
 ---
 
 ### Karanta Dev
 <a href="https://karanta.dev/">
-  <img src="images/karanta.png" alt="Vista previa de Karanta" width="600px"/>
+  <img src="images/karanta.png" alt="Karanta Preview" width="600px"/>
 </a>
-<p>Página web informativa desarrollada con SvelteKit para presentar los proyectos y servicios de la empresa Karanta.</p>
+<p>An informational website developed with SvelteKit to showcase the projects and services of the Karanta company.</p>
 
 ---
 
-### E-commerce Dinámico
+### Dynamic E-commerce
 <a href="https://lolcito-almacen-de-miguel-2.karanta.dev/8/22">
-  <img src="images/ecommerce.png" alt="Vista previa del E-commerce" width="600px"/>
+  <img src="images/ecommerce.png" alt="E-commerce Preview" width="600px"/>
 </a>
-<p>Este proyecto genera un e-commerce automáticamente por cada almacén creado en Massari. Al recibir una petición, importa los estilos y productos correspondientes, proporcionando a cada usuario una tienda en línea sencilla y funcional.</p>
+<p>This project automatically generates an e-commerce store for each new warehouse created in Massari. Upon request, it dynamically imports the corresponding styles and products, providing each user with a simple and functional online store.</p>
 
 </div>
