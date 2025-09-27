@@ -31,7 +31,7 @@
   <tr>
     <td width="33.33%" align="center">
       <a href="https://massari-dev.karanta.dev/">
-        <img src="URL_DEL_LOGO_MASSARI" width="100px" alt="Logo de Massari"/>
+        <img src="images/massari.png" width="100px" alt="Logo de Massari"/>
       </a>
       <br />
       <b>Massari Dev</b>
@@ -40,7 +40,7 @@
     </td>
     <td width="33.33%" align="center">
       <a href="https://karanta.dev/">
-        <img src="URL_DEL_LOGO_KARANTA" width="100px" alt="Logo de Karanta"/>
+        <img src="images/karanta.png" width="100px" alt="Logo de Karanta"/>
       </a>
       <br />
       <b>Karanta Dev</b>
@@ -49,7 +49,7 @@
     </td>
     <td width="33.33%" align="center">
       <a href="https://lolcito-almacen-de-miguel-2.karanta.dev/8/22">
-        <img src="URL_DEL_LOGO_BIOMEDICAL" width="100px" alt="Logo de Biomedical Almacén"/>
+        <img src="images/ecommerce.png" width="100px" alt="Logo de Biomedical Almacén"/>
       </a>
       <br />
       <b>Biomedical Almacén</b>
